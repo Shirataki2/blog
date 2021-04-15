@@ -1,3 +1,18 @@
 [submodule "themes/liquorice"]
 	path = themes/liquorice
 	url = https://github.com/eliasson/liquorice/
+[submodule "themes/hugo-theme-texify"]
+	path = themes/hugo-theme-texify
+	url = https://github.com/queensferryme/hugo-theme-texify.git
+[submodule "themes/tale"]
+	path = themes/tale
+	url = https://github.com/EmielH/tale-hugo.git
+[submodule "themes/book"]
+	path = themes/book
+	url = https://github.com/alex-shpak/hugo-book
+[submodule "themes/etch"]
+	path = themes/etch
+	url = https://github.com/LukasJoswiak/etch.git
+[submodule "themes/fuji"]
+	path = themes/fuji
+	url = https://github.com/amzrk2/hugo-theme-fuji.git
