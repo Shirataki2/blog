@@ -2,8 +2,10 @@
 title: "Test"
 date: 2021-04-15T15:41:33+09:00
 katex: true
+categories: ["Rust"]
 tags:
     - Rust
+author: ["shirataki2"]
 ---
 
 # 表示テスト
