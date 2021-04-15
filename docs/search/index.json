@@ -1,0 +1,1 @@
+[{"content":"表示テスト $$ E = mc^2 $$\nlet a = format!(\u0026quot;Hello {}\u0026quot;, \u0026quot;rust\u0026quot;);  ","date":"2021-04-15","permalink":"https://blog.xfxfx.net/posts/test/","tags":["Rust"],"title":"Test"}]
