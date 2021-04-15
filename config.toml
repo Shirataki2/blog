@@ -1,0 +1,4 @@
+baseURL = "http://blog.xfxfx.net/"
+languageCode = "jp"
+title = "My New Hugo Site"
+theme = "liquorice"
