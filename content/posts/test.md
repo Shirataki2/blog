@@ -1,5 +1,6 @@
 ---
 title: "Test"
+description: "せつめい"
 date: 2021-04-15T15:41:33+09:00
 katex: true
 categories: ["Rust"]
